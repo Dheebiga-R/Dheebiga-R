@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dheebiga</h1>
 <h3 align="center">A passionate Java Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheebiga-r&label=Profile%20views&color=0e75b6&style=flat" alt="dheebiga-r" /> </p>
+💻 **About Me**: Passionate Java developer with expertise in building full-stack applications. Currently mastering microservices architecture while contributing to open-source projects.
+
+🌱 **Learning**: Spring Cloud, Docker, AWS, DSA
+
+🔗 **Portfolio**: [dheebiga.dev](https://your-portfolio-link.com)
+
+📄 **Resume**: [![Download PDF](https://img.shields.io/badge/-Download_Resume-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1D0v88XEtYiWGC50d5alan0xjfTXGy_gv)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheebiga-r" alt="dheebiga-r" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend-HTML5,CSS,Bootstrap,TailwindCss,Javascript,React.js,Backend-Spring Framework,Spring MVC,Spring Boot,Spring Security,Thymeleaf template,JUnit and Mockito,DSA,Database-MYSQL,MongoDB**
 
