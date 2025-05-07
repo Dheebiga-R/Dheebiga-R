@@ -1,37 +1,88 @@
 <h1 align="center">Hi 👋, I'm Dheebiga</h1>
-<h3 align="center">A passionate Java Fullstack Developer from India</h3>
-
-💻 **About Me**: Passionate Java developer with expertise in building full-stack applications. Currently mastering microservices architecture while contributing to open-source projects.
-
-🌱 **Learning**: Spring Cloud, Docker, AWS, DSA
-
-🔗 **Portfolio**: [dheebiga.dev](https://your-portfolio-link.com)
-
-📄 **Resume**: [![Download PDF](https://img.shields.io/badge/-Download_Resume-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/uc?export=download&id=1D0v88XEtYiWGC50d5alan0xjfTXGy_gv)
+<h3 align="center">Java Full-Stack Developer | Spring Boot Specialist | Web Solutions Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheebiga-r" alt="dheebiga-r" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend-HTML5,CSS,Bootstrap,TailwindCss,Javascript,React.js,Backend-Spring Framework,Spring MVC,Spring Boot,Spring Security,Thymeleaf template,JUnit and Mockito,DSA,Database-MYSQL,MongoDB**
+💻 **About Me**: Java Full-Stack developer trained in Spring ecosystem (MVC, Security, Web).Built e-commerce apps with JWT auth and REST APIs. Currently diving into microservices and cloud tech. Passionate about solving problems through code.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dheebiga-R](https://github.com/Dheebiga-R)
+🌱 **Learning**: Spring Cloud, Docker, AWS, DSA
 
-- 📫 How to reach me **dheebigaramesh@gmail.com**
+🔗 **Portfolio**: [View My Work](https://dheebiga-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17Il4srJPmq2KHHfmRd0Qx5bo5_Qmh0d9/view?usp=sharing](https://drive.google.com/file/d/17Il4srJPmq2KHHfmRd0Qx5bo5_Qmh0d9/view?usp=sharing)
+📄 **Resume**: [![Download](https://img.shields.io/badge/-Download_Resume-4285F4?style=flat-square&logo=adobeacrobatreader&logoColor=white&verticalAlign=text-bottom)](https://drive.google.com/uc?export=download&id=1D0v88XEtYiWGC50d5alan0xjfTXGy_gv)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dheebiga01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheebiga01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dheebigaramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dheebigaramesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dheebigaramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheebigaramesh" height="30" width="40" /></a>
-</p>
+📂 **Projects**: [github.com/Dheebiga-R](https://github.com/Dheebiga-R) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+📫 **Email:** dheebigaramesh@gmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheebiga-r&show_icons=true&locale=en&layout=compact" alt="dheebiga-r" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheebiga-r&show_icons=true&locale=en" alt="dheebiga-r" /></p>
+## 🛠 Tech Stack
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+
+### **Backend**
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white)
+![Collections](https://img.shields.io/badge/Collections_Framework-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?logo=spring)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?logo=junit5)
+![Mockito](https://img.shields.io/badge/Mockito-78C257?logo=mockito)
+
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+### 1. [Responsive E-Commerce Website](https://github.com/Dheebiga-R/Responsive-Ecommerce-website)
+✔ **Tech**: HTML5, CSS3, Javascript  
+✔ **Features**: Fully Responsive Design, Smooth Animations and Transitions, Product Details Page  
+✔ **Demo**: [Live Preview](https://dheebiga-ecommerce-responsive-website.netlify.app/)  
+
+### 2. [Employee Management Application](https://github.com/Dheebiga-R/Mini-project-I)  
+✔ **Tech**: HTML5, Bootstrap, Thymeleaf, Spring MVC  
+✔ **Features**: CRUD Operations on Employee datas  
+✔ **Demo**: [Live Preview](https://drive.google.com/file/d/1b76YSdBWqiQ1BRwtQK-lNsFc9OoXznjG/view)
+
+### 3. [Bus Ticket Booking System](https://github.com/Dheebiga-R/Capstone-project)  
+✔ **Tech**: HTML5, Bootstrap, Thymeleaf, Spring MVC, Spring Security(JWT Token Based), JUnit and Mockito  
+✔ **Features**: CRUD Operations, Search Routes, Book Tickets, Available Seats  
+✔ **Demo**: [Live Preview](https://drive.google.com/file/d/1kvGueiAVnx2jmDumNP_kXoWiEvEGeq5h/view)
+
+---
+
+## 📜 Certifications
+[![Java Fullstack Developer](https://img.shields.io/badge/Java_Fullstack-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.guvi.in/certificate?id=u71NI2481474jovg65)
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheebiga-R&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheebiga-R&layout=compact)](https://github.com/Dheebiga-R)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheebiga-r&" alt="dheebiga-r" /></p>
+
+---
+
+## 🌟 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheebiga01/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dheebigaramesh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Dheebiga-R)
+
 
